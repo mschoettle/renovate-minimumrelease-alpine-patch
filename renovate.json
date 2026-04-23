@@ -1,7 +1,6 @@
 {
   "extends": [
-    "config:recommended",
-    "github>mschoettle/renovate-presets//presets/actions-dependency-version.json5",
+    "config:recommended"
   ],
   "minimumReleaseAge": "14 days",
   "internalChecksFilter": "strict"
