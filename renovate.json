@@ -2,7 +2,5 @@
   "extends": [
     "config:recommended",
     ":separatePatchReleases"
-  ],
-  "minimumReleaseAge": "14 days",
-  "internalChecksFilter": "strict"
+  ]
 }
