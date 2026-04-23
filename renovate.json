@@ -1,10 +1,8 @@
 {
   "extends": [
     "config:recommended",
-    "github>mschoettle/renovate-presets//presets/docker-alpine.json5",
     ":separatePatchReleases"
   ],
   "minimumReleaseAge": "14 days",
-  "internalChecksFilter": "strict",
-  "ignorePresets": ["workarounds:nodeDockerVersioning"]
+  "internalChecksFilter": "strict"
 }
