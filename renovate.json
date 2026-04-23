@@ -3,6 +3,6 @@
     "config:recommended",
     "github>mschoettle/renovate-presets//presets/actions-dependency-version.json5"
   ],
-  "minimumReleaseAge": "7 days",
+  "minimumReleaseAge": "14 days",
   "internalChecksFilter": "strict"
 }
