@@ -1,7 +1,8 @@
 {
   "extends": [
     "config:recommended",
-    "github>mschoettle/renovate-presets//presets/actions-dependency-version.json5"
+    "github>mschoettle/renovate-presets//presets/actions-dependency-version.json5",
+    "github>mschoettle/renovate-presets//presets/docker-alpine.json5"
   ],
   "minimumReleaseAge": "14 days",
   "internalChecksFilter": "strict"
