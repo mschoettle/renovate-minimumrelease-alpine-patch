@@ -1,4 +1,4 @@
-# renovate-minimumrelease-alpine-patch
+# 42894
 
 First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
 
@@ -18,4 +18,4 @@ The image should be updated to v24.14.1 as well.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/42894
